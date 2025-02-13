@@ -14,12 +14,6 @@ c) Immutable
 
 This project serves as a foundational implementation of a voting system aimed at exploring the fundamentals of Ethereum blockchain technology and the operational principles of decentralized applications built with **Solidity** and **React**. In this system, the account responsible for deploying the **smart contract acts as the Admin**, who has the authority to add eligible voters and candidates. Once the Admin initiates the election, **authorized voters can cast their ballots** for their preferred candidates. After the Admin concludes the election, the final results are instantly visible to the voters.
 
-## Snapshots
-
-<img width="947" alt="Admin" src="https://github.com/vatsal-30/voting-Dapp/assets/100423588/f77eac5f-cc35-495b-ba04-3ebe62e1d602">
-<img width="960" alt="index" src="https://github.com/vatsal-30/voting-Dapp/assets/100423588/8caf0e92-6107-4a9c-855b-05b269ad9023">
-<img width="960" alt="vote" src="https://github.com/vatsal-30/voting-Dapp/assets/100423588/ab7016d0-1b80-4763-bc76-d9525c46ad00">
-
 ## Installation
 
 ### Step 1: Clone the Project
@@ -44,6 +38,12 @@ npm install
 npm start
 ```
 Visit the URL in your browser: http://localhost:3000
+
+## Snapshots
+
+<img width="947" alt="Admin" src="https://github.com/vatsal-30/voting-Dapp/assets/100423588/f77eac5f-cc35-495b-ba04-3ebe62e1d602">
+<img width="960" alt="index" src="https://github.com/vatsal-30/voting-Dapp/assets/100423588/8caf0e92-6107-4a9c-855b-05b269ad9023">
+<img width="960" alt="vote" src="https://github.com/vatsal-30/voting-Dapp/assets/100423588/ab7016d0-1b80-4763-bc76-d9525c46ad00">
 
 
 
